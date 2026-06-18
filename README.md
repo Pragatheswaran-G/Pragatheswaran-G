@@ -62,8 +62,7 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pragatheswaran-G&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheswaran-G&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Pragatheswaran-G&theme=github-dark-blue&hide_border=true"/>
@@ -87,9 +86,7 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 ### NPTEL
 - Problem Solving Through Programming in C
 - Introduction to Internet of Things
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=algolia&no-frame=true&column=4"/>
-</p>
+
 
 ## Connect
 
@@ -108,3 +105,8 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+ ## Tech Mode ON
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
