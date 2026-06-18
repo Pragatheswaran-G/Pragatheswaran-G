@@ -10,16 +10,15 @@
 
 ## About
 
-I'm an engineering student focused on backend development with Java and Spring Boot. I enjoy building REST APIs, database-driven applications, and full-stack web projects.
+I am Pragatheswaran G, an ECE student passionate about Java Full Stack Development. I have skills in Core Java, HTML, CSS, JavaScript, Bootstrap, SQL, Git, GitHub, and Spring Boot, and I enjoy building real-world web applications. I am eager to continuously learn, improve my problem-solving skills, and grow as a software developer.
 
 ### Current Focus
-
+- Current Focus
 - Spring Boot
-- Spring Security
-- JWT Authentication
-- Docker
 - REST API Design
-
+- Data Structures & Algorithms (DSA)
+- Frontend Development (HTML, CSS, JavaScript, Bootstrap)
+- Java Full Stack Development
 ---
 
 ## Tech Stack
