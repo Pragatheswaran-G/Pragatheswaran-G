@@ -91,12 +91,8 @@ I'm an engineering student focused on backend development with Java and Spring B
 
 ## Contribution Snake
 
-> Enable the GitHub Action from Platane/snk and use:
-
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/Pragatheswaran-G/Pragatheswaran-G/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Pragatheswaran-G/Pragatheswaran-G/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
