@@ -74,16 +74,19 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 </p>
 
 ## Achievements & Certificates
-###CISCO
-- Python Essentials 1 & 2 
-- Introduction To Data Science 
-- Introduction To Cybersecurity
-- Introduction To Modern AI
-- CCNA Introduction To Networks
-- Apply AI : Analyze Customer Review
-###NPTEL
-- Problem Solving Through Programming In C
-- Introduction To Internet Of Things
+
+### Cisco
+- Python Essentials 1
+- Python Essentials 2
+- Introduction to Data Science
+- Introduction to Cybersecurity
+- Introduction to Modern AI
+- CCNA: Introduction to Networks
+- Apply AI: Analyze Customer Reviews
+
+### NPTEL
+- Problem Solving Through Programming in C
+- Introduction to Internet of Things
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=algolia&no-frame=true&column=4"/>
 </p>
