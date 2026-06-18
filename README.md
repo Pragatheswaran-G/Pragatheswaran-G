@@ -1,226 +1,102 @@
-<h1 align="center">Hi 👋, I'm Pragatheswaran G</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Pragatheswaran%20G&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">
-🚀 Java Backend Developer | Spring Boot Developer | Full Stack Developer | ML Enthusiast
-</h3>
+<h1 align="center">Java Backend Developer</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Pragatheswaran-G">
-<img src="https://komarev.com/ghpvc/?username=Pragatheswaran-G&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<img src="https://img.shields.io/github/followers/Pragatheswaran-G?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/Pragatheswaran-G?style=for-the-badge">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;REST+API+Developer;Java+%7C+MySQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Always+Learning+and+Building"/>
 </p>
 
 ---
 
-# 💫 About Me
+## About
 
-🎓 Electronics & Communication Engineering Student
+I'm an engineering student focused on backend development with Java and Spring Boot. I enjoy building REST APIs, database-driven applications, and full-stack web projects.
 
-💻 Passionate about Backend Development using Java & Spring Boot
+### Current Focus
 
-🌱 Currently Learning
-
+- Spring Boot
 - Spring Security
 - JWT Authentication
-- Microservices
 - Docker
-- System Design
-
-🚀 Interested In
-
-- Backend Development
-- Full Stack Development
-- Machine Learning
-- Cloud Computing
-
-🎯 Goal
-
-Become a Software Development Engineer at a Product-Based Company.
+- REST API Design
 
 ---
 
-# 🛠 Tech Stack
-
-## Languages
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,sql"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,bootstrap,git,github,maven,postman,vscode,idea"/>
 </p>
 
 ---
 
-## Backend
+## Featured Projects
 
-<p align="center">
+### Spring Boot E-Commerce Backend
+- Authentication & Authorization
+- Product Management
+- Shopping Cart
+- MySQL
+- REST APIs
 
-<img src="https://skillicons.dev/icons?i=spring,maven,mysql"/>
+### Student Management System
+- Spring Boot
+- CRUD Operations
+- MySQL
 
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
-
-</p>
-
----
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce Backend
-
-✔ Spring Boot
-
-✔ REST APIs
-
-✔ Authentication
-
-✔ Shopping Cart
-
-✔ MySQL Database
-
----
-
-## 🤖 Student Performance Prediction
-
-Machine Learning Project
-
-- Python
-- Scikit-Learn
-- Pandas
-- Matplotlib
-
----
-
-## 📦 Smart Product Expiry Monitoring System
-
+### Smart Product Expiry Monitoring System
 - ESP32-CAM
-- QR Code Detection
-- RTC Module
+- QR Code Scanner
 - SD Card Storage
-- Embedded System
+- RTC Module
 
----
-
-## 🌐 Responsive Portfolio Website
-
+### Responsive Portfolio Website
 - HTML
 - CSS
 - JavaScript
-- Responsive UI
+- Bootstrap
 
 ---
 
-# 📈 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragatheswaran-G&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheswaran-G&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pragatheswaran-G&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheswaran-G&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatheswaran-G&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Pragatheswaran-G&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragatheswaran-G&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragatheswaran-G&theme=github-dark"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=algolia&no-frame=true&column=4"/>
 </p>
 
----
-
-# 📚 Currently Exploring
-
-✅ Spring Security
-
-✅ JWT Authentication
-
-✅ Docker
-
-✅ Microservices
-
-✅ REST API Best Practices
-
----
-
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
-
-<a href="https://github.com/Pragatheswaran-G">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<a href="https://github.com/Pragatheswaran-G"><img src="https://skillicons.dev/icons?i=github"/></a>
+<!-- Replace with your LinkedIn -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<!-- Replace with your email -->
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
----
+## Contribution Snake
 
-# 💬 Quote
+> Enable the GitHub Action from Platane/snk and use:
 
+```md
 <p align="center">
-
-<i>"Great software isn't just written—it's designed, tested, and continuously improved."</i>
-
+<img src="https://raw.githubusercontent.com/Pragatheswaran-G/Pragatheswaran-G/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+```
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
