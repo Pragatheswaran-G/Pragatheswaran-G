@@ -1,86 +1,113 @@
 <h1 align="center">Hi 👋, I'm Pragatheswaran G</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | Full Stack Developer | Machine Learning Enthusiast
+🚀 Java Backend Developer | Spring Boot Developer | Full Stack Developer | ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Pragatheswaran-G">
+<img src="https://komarev.com/ghpvc/?username=Pragatheswaran-G&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/Pragatheswaran-G?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/Pragatheswaran-G?style=for-the-badge">
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 Electronics and Communication Engineering Student
+🎓 Electronics & Communication Engineering Student
+
+💻 Passionate about Backend Development using Java & Spring Boot
 
 🌱 Currently Learning
 
-- Spring Boot
-- REST API Development
+- Spring Security
+- JWT Authentication
 - Microservices
 - Docker
 - System Design
 
-💻 Interested In
+🚀 Interested In
 
 - Backend Development
 - Full Stack Development
 - Machine Learning
-- Cloud Technologies
+- Cloud Computing
 
-📫 Reach me
+🎯 Goal
 
-- Email: your-email@gmail.com
-- LinkedIn: Your LinkedIn URL
+Become a Software Development Engineer at a Product-Based Company.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql,c"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,sql"/>
+
 </p>
 
-### Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,maven"/>
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,maven,mysql"/>
+
 </p>
 
-### Frontend
+---
 
-<p>
+## Frontend
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
-</p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
 </p>
 
 ---
 
-# ⭐ Featured Projects
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🛒 E-Commerce Backend
 
 ✔ Spring Boot
 
-✔ MySQL
-
-✔ REST API
+✔ REST APIs
 
 ✔ Authentication
 
-✔ Cart System
+✔ Shopping Cart
+
+✔ MySQL Database
 
 ---
 
-## 🎓 Student Performance Prediction
+## 🤖 Student Performance Prediction
 
 Machine Learning Project
 
@@ -91,50 +118,40 @@ Machine Learning Project
 
 ---
 
-## 🌐 Responsive Portfolio Website
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📷 Smart Product Expiry Monitoring System
+## 📦 Smart Product Expiry Monitoring System
 
 - ESP32-CAM
 - QR Code Detection
 - RTC Module
 - SD Card Storage
+- Embedded System
 
 ---
 
-# 📈 GitHub Stats
+## 🌐 Responsive Portfolio Website
+
+- HTML
+- CSS
+- JavaScript
+- Responsive UI
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pragatheswaran-G&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragatheswaran-G&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheswaran-G&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheswaran-G&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatheswaran-G&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=tokyonight&margin-w=15"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatheswaran-G&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -150,14 +167,60 @@ Machine Learning Project
 
 ---
 
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
+
+---
+
+# 📚 Currently Exploring
+
+✅ Spring Security
+
+✅ JWT Authentication
+
+✅ Docker
+
+✅ Microservices
+
+✅ REST API Best Practices
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Pragatheswaran-G">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+<i>"Great software isn't just written—it's designed, tested, and continuously improved."</i>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
