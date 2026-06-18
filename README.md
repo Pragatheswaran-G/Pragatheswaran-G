@@ -73,9 +73,17 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragatheswaran-G&theme=github-dark"/>
 </p>
 
-## Achievements
-I am trans
-
+## Achievements & Certificates
+#CISCO
+- Python Essentials 1 & 2 
+- Introduction To Data Science 
+- Introduction To Cybersecurity
+- Introduction To Modern AI
+- CCNA Introduction To Networks
+- Apply AI : Analyze Customer Review
+#NPTEL
+- Problem Solving Through Programming In C
+- Introduction To Internet Of Things
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=algolia&no-frame=true&column=4"/>
 </p>
@@ -85,9 +93,9 @@ I am trans
 <p align="center">
 <a href="https://github.com/Pragatheswaran-G"><img src="https://skillicons.dev/icons?i=github"/></a>
 <!-- Replace with your LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/pragatheswaran-g"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Replace with your email -->
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:pragatheswaran2k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ## Contribution Snake
