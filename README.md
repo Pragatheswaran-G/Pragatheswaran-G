@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Pragatheswaran%20G&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Java Backend Developer</h1>
+<h1 align="center">Java Full Stack Developer</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;REST+API+Developer;Java+%7C+MySQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Always+Learning+and+Building"/>
@@ -38,11 +38,12 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 - MySQL
 - REST APIs
 
-### Student Management System
-- Spring Boot
-- CRUD Operations
-- MySQL
-
+### Hotel Booking Management System
+- Core Java
+- Console Application
+- OOP Concepts
+- Collections Framework
+  
 ### Smart Product Expiry Monitoring System
 - ESP32-CAM
 - QR Code Scanner
