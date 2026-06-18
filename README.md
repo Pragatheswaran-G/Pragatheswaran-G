@@ -74,6 +74,7 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 </p>
 
 ## Achievements
+I am trans
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pragatheswaran-G&theme=algolia&no-frame=true&column=4"/>
