@@ -74,14 +74,14 @@ I am Pragatheswaran G, an ECE student passionate about Java Full Stack Developme
 </p>
 
 ## Achievements & Certificates
-#CISCO
+###CISCO
 - Python Essentials 1 & 2 
 - Introduction To Data Science 
 - Introduction To Cybersecurity
 - Introduction To Modern AI
 - CCNA Introduction To Networks
 - Apply AI : Analyze Customer Review
-#NPTEL
+###NPTEL
 - Problem Solving Through Programming In C
 - Introduction To Internet Of Things
 <p align="center">
